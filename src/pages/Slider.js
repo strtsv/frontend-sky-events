@@ -1,0 +1,13 @@
+Header
+Slider
+ProductDawn
+Events
+NewProducts
+AboutUs
+OurTeam
+OurGallery
+Testimonials
+Subscribe
+OurBlog
+Clients
+Footer
